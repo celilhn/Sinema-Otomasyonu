@@ -1,0 +1,22 @@
+C:\Users\kayse\source\repos\25_05_2020\bin\Debug\25_05_2020.exe.config
+C:\Users\kayse\source\repos\25_05_2020\bin\Debug\25_05_2020.exe
+C:\Users\kayse\source\repos\25_05_2020\bin\Debug\25_05_2020.pdb
+C:\Users\kayse\source\repos\25_05_2020\obj\Debug\25_05_2020.csprojAssemblyReference.cache
+C:\Users\kayse\source\repos\25_05_2020\obj\Debug\_25_05_2020.Form1.resources
+C:\Users\kayse\source\repos\25_05_2020\obj\Debug\_25_05_2020.KoltukSecimi.resources
+C:\Users\kayse\source\repos\25_05_2020\obj\Debug\_25_05_2020.Properties.Resources.resources
+C:\Users\kayse\source\repos\25_05_2020\obj\Debug\25_05_2020.csproj.GenerateResource.cache
+C:\Users\kayse\source\repos\25_05_2020\obj\Debug\25_05_2020.csproj.CoreCompileInputs.cache
+C:\Users\kayse\source\repos\25_05_2020\obj\Debug\25_05_2020.exe
+C:\Users\kayse\source\repos\25_05_2020\obj\Debug\25_05_2020.pdb
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\bin\Debug\25_05_2020.exe.config
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\bin\Debug\25_05_2020.exe
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\bin\Debug\25_05_2020.pdb
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\obj\Debug\25_05_2020.csprojAssemblyReference.cache
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\obj\Debug\_25_05_2020.Form1.resources
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\obj\Debug\_25_05_2020.KoltukSecimi.resources
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\obj\Debug\_25_05_2020.Properties.Resources.resources
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\obj\Debug\25_05_2020.csproj.GenerateResource.cache
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\obj\Debug\25_05_2020.csproj.CoreCompileInputs.cache
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\obj\Debug\25_05_2020.exe
+C:\Users\Celilhan\Desktop\Projeler\12 - Sinema Otomasyonu - C# Form\obj\Debug\25_05_2020.pdb
